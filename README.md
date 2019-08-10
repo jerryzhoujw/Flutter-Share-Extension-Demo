@@ -2,10 +2,6 @@
 
 A simple Flutter project for Share Extesion Demo.
 
-## Branchs
-- `Master` branch: only work on simulator,  run on device will give build error.
-- `dev/enable_share_extension_for_device` branch: only work on simulator,  run on device will give build error.
-
 ## Build Errors:
 - Run `Target: Share Extension` on device
 
