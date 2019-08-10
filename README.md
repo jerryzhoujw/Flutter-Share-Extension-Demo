@@ -1,6 +1,6 @@
 # simple
 
-A new Flutter project.
+A simple Flutter project for Share Extesion Demo.
 
 ## Getting Started
 
