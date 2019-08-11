@@ -2,6 +2,16 @@
 
 A simple Flutter project for Share Extesion Demo.
 
+## Update
+### After `overwrite` setting in `Target: Share Extension`: (git diff [sample](https://github.com/jerryzhoujw/Flutter-Share-Extension-Demo/pull/1/commits/0e9d719f41ae21f558de34f9224f00aae9b68cd4))
+
+>  `LIBRARY_SEARCH_PATHS` = "";
+
+>  `OTHER_LDFLAGS` = "";  or  `OTHER_LDFLAGS` = "-ObjC";
+
+
+Run `Target: ShareExtension` & `Target: Container App` both works on device.
+
 ## Build Errors:
 - Run `Target: Share Extension` on device
 
